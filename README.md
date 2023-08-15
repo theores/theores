@@ -1,14 +1,9 @@
 ## Hey 👋, there!
 
-### My GitHub Contributions
-
-![](https://raw.githubusercontent.com/theores/theores/main/assets/github-contribution-grid-snake.svg)
-
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 Javascript, CSS, HTML, Vue, Nuxt (Server-side rendering        framework), Nest (Backend service framework), Canvas, Mini Programs, UniApp, Electron, Git, jQuery, Microservices Architecture, Responsive Development, etc.
 - 🤔 SAFe Agile Engineer Certification;
-- 💼 I’m pursuing a Bachelor's degree in Medical Imaging;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
@@ -25,6 +20,12 @@
 ### Contact me:
 
 - Website: [![website](https://img.shields.io/badge/https://www.huabek.com-3693F3?style=flat-square)](https://www.huabek.com)
-- Email: [![Email](https://img.shields.io/badge/ChinaDreamLiu@163-D14836?style=flat-square)](mailto:ChinaDreamLiu@163)
+
+- Email: [![Email](https://img.shields.io/badge/ChinaDreamLiu@163-D14836?style=flat-square)](mailto:ChinaDreamLiu@163.com)
 
 - Blog: [![website](https://img.shields.io/badge/https://www.cnblogs.com/China-Dream/-3693F3?style=flat-square&logoColor=white)](https://www.cnblogs.com/China-Dream/)
+
+
+### My GitHub Contributions
+
+![](https://raw.githubusercontent.com/theores/theores/main/assets/github-contribution-grid-snake.svg)
