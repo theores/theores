@@ -24,7 +24,7 @@
 
 ### Contact me:
 
-- Personal website: [![website](https://img.shields.io/badge/https://www.huabek.com-3693F3?style=flat-square)](https://www.huabek.com)
+- Website: [![website](https://img.shields.io/badge/https://www.huabek.com-3693F3?style=flat-square)](https://www.huabek.com)
 - Email: [![Email](https://img.shields.io/badge/ChinaDreamLiu@163-D14836?style=flat-square)](mailto:ChinaDreamLiu@163)
 
-- Email: [![website](https://img.shields.io/badge/https://www.cnblogs.com/China-Dream/-3693F3?style=flat-square&logoColor=white)](https://www.cnblogs.com/China-Dream/)
+- Blog: [![website](https://img.shields.io/badge/https://www.cnblogs.com/China-Dream/-3693F3?style=flat-square&logoColor=white)](https://www.cnblogs.com/China-Dream/)
