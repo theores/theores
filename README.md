@@ -1,6 +1,6 @@
-![me](https://github.com/L1cardo/L1cardo/raw/main/me.gif)
+![me](https://github.com/theores/theores/raw/main/me.gif)
 
-<a href="https://github.com/L1cardo/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></a>
+<a href="https://github.com/theores/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/theores/iBeats/main/files/heart.svg"/></a>
 ## Hey 👋, I'm Albert Abdilim
 
 Hi there, I'm **Albert Abdilim**, a **medical student**.
@@ -36,15 +36,15 @@ I love programming and I love Swift.
 - Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albert.abdilim@foxmail.com)
 
 ### I like running
-[![running](https://cdn.jsdelivr.net/gh/L1cardo/running_page@master/assets/github.svg)](https://running-page.l1cardo.vercel.app)
+[![running](https://cdn.jsdelivr.net/gh/theores/running_page@master/assets/github.svg)](https://running-page.theores.vercel.app)
 
 ### My GitHub Contributions
 
-![](https://raw.githubusercontent.com/L1cardo/L1cardo/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/theores/theores/main/assets/github-contribution-grid-snake.svg)
 
 ### My GitHub Stats
 
-![Licardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1cardo&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1cardo&layout=compact)
+![Licardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theores&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theores&layout=compact)
 
-⭐️ From [L1cardo](https://github.com/L1cardo)
+⭐️ From [theores](https://github.com/theores)
