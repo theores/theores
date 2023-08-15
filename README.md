@@ -1,7 +1,8 @@
-![me](https://github.com/theores/theores/raw/main/me.gif)
-
-<a href="https://github.com/theores/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/theores/iBeats/main/files/heart.svg"/></a>
 ## Hey 👋, there!
+
+### My GitHub Contributions
+
+![](https://raw.githubusercontent.com/theores/theores/main/assets/github-contribution-grid-snake.svg)
 
 ### Talking about Personal Stuffs:
 
@@ -26,16 +27,4 @@
 - Personal website: [![website](https://img.shields.io/badge/https://www.huabek.com-3693F3?style=flat-square)](https://www.huabek.com)
 - Email: [![Email](https://img.shields.io/badge/ChinaDreamLiu@163-D14836?style=flat-square)](mailto:ChinaDreamLiu@163)
 
-### BLOG
-[![website](https://img.shields.io/badge/https://www.cnblogs.com/China-Dream/-3693F3?style=flat-square&logoColor=white)](https://www.cnblogs.com/China-Dream/)
-
-### My GitHub Contributions
-
-![](https://raw.githubusercontent.com/theores/theores/main/assets/github-contribution-grid-snake.svg)
-
-### My GitHub Stats
-
-![Licardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theores&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theores&layout=compact)
-
-⭐️ From [theores](https://github.com/theores)
+- Email: [![website](https://img.shields.io/badge/https://www.cnblogs.com/China-Dream/-3693F3?style=flat-square&logoColor=white)](https://www.cnblogs.com/China-Dream/)
